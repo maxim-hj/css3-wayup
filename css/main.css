@@ -1,0 +1,33 @@
+h1, h2 {
+	color: #fff;
+	background: green;
+}
+
+.intro__title {
+	color: red;
+}
+
+.intro__descr--bgblue {
+	color: white;
+	background: blue;
+	width: 100px;
+	height: 70px;
+	margin-bottom: 105px;
+}
+
+.intro__descr--red {
+	color: red;
+}
+
+.skills__title {
+	padding: 50px 0 50px 45px;
+}
+
+.skills__descr--space {
+	margin-left: 100px;
+}
+
+.skills__item {
+	border: 1px solid #000;
+	font-size: 30px;
+}
